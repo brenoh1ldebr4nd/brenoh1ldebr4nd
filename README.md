@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Breno Hildebrand</h1>
+
+<p>Self-taught programmer, learning with everyone and everything around me.</p>
 
 <!--
 **brenoh1ldebr4nd/brenoh1ldebr4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
