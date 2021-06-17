@@ -1,6 +1,6 @@
 <h1 align="left">Breno Hildebrand</h1>
 
-<p>Self-taught programmer, learning with everyone and everything around me.</p>
+<p>Learning computer magic and its amazing power to transform 0's and 1's in anything.</p>
 
 <!--
 **brenoh1ldebr4nd/brenoh1ldebr4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
