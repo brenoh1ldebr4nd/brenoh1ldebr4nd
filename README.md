@@ -1,3 +1,5 @@
-<h1 align="left">Breno Hildebrand</h1>
+# Breno Hildebrand
 
-<p>Learning the powerful magic of turning 0's and 1's into anything.</p>
+What's up, awesome people?
+
+I'm a Creative Web Developer and an aspiring Game Developer. I'm self-taught and I learn as I go. I'm always into something interesting.
