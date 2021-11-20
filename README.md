@@ -1,5 +1,19 @@
 # Breno Hildebrand
 
-What's up, awesome people?
+***
+README under development.
+***
 
-I'm a Creative Web Developer and an aspiring Game Developer. I'm self-taught and I learn as I go. I'm always into something interesting.
+Hey, Awesome People!
+
+<br/>
+
+I'm on the adventure of  **Game Development** and **Creative Web Development**.
+
+```lua
+Toolbox = { 'C/C++', 'LUA', 'JS', 'All I got from life' }
+```
+
+</br>
+
+> "One day, you will be old enough to start reading fairytales again." - C.S.Lewis, 'The Chronicles Of Narnia'
